@@ -1,0 +1,73 @@
+2026-04-09 17:45:52,771 [INFO] crawler.auth: Navigating to XHS explore page...
+2026-04-09 17:46:01,148 [INFO] crawler.auth: Not logged in. Reopening browser in visible mode for QR login...
+2026-04-09 17:46:19,808 [INFO] crawler.auth: Waiting for QR code login (timeout: 120s)...
+2026-04-09 17:46:19,814 [INFO] crawler.auth: Please scan the QR code with the Xiaohongshu app on your phone.
+2026-04-09 17:48:20,106 [WARNING] crawler.auth: Login timed out.
+2026-04-09 17:50:40,947 [INFO] crawler.auth: Navigating to XHS explore page...
+2026-04-09 17:50:50,642 [INFO] crawler.auth: Not logged in. Reopening browser in visible mode for QR login...
+2026-04-09 17:51:03,755 [INFO] crawler.auth: Waiting for QR code login (timeout: 120s)...
+2026-04-09 17:51:03,755 [INFO] crawler.auth: Please scan the QR code with the Xiaohongshu app on your phone.
+2026-04-09 17:51:22,753 [INFO] crawler.auth: Login successful!
+2026-04-09 17:51:22,753 [INFO] crawler.collection_crawler: Crawling collection: https://www.xiaohongshu.com/board/69709b190000000012029778?source=web_user_page
+2026-04-09 17:51:27,146 [DEBUG] crawler.collection_crawler: Scroll 1/10
+2026-04-09 17:51:29,762 [DEBUG] crawler.collection_crawler: Scroll 2/10
+2026-04-09 17:51:32,779 [DEBUG] crawler.collection_crawler: Scroll 3/10
+2026-04-09 17:51:35,780 [DEBUG] crawler.collection_crawler: Scroll 4/10
+2026-04-09 17:51:38,782 [DEBUG] crawler.collection_crawler: Scroll 5/10
+2026-04-09 17:51:40,887 [DEBUG] crawler.collection_crawler: Scroll 6/10
+2026-04-09 17:51:42,895 [DEBUG] crawler.collection_crawler: Scroll 7/10
+2026-04-09 17:51:44,903 [DEBUG] crawler.collection_crawler: Scroll 8/10
+2026-04-09 17:51:46,981 [DEBUG] crawler.collection_crawler: Scroll 9/10
+2026-04-09 17:51:49,081 [DEBUG] crawler.collection_crawler: Scroll 10/10
+2026-04-09 17:51:51,095 [DEBUG] crawler.collection_crawler: Found 8 cards with selector: section.note-item
+2026-04-09 17:51:51,368 [INFO] crawler.collection_crawler: Found 8 unique notes in collection.
+2026-04-09 17:51:51,368 [INFO] __main__: [1/8] Crawling note: 27届进❗️分享我的实习时间线...
+2026-04-09 17:51:51,368 [INFO] crawler.note_crawler: Crawling note: https://www.xiaohongshu.com/explore/698378c9000000000903a4fb
+2026-04-09 17:51:54,517 [INFO] crawler.note_crawler: Extracted note '当前笔记暂时无法浏览...' (0 chars)
+2026-04-09 17:51:54,518 [DEBUG] storage.json_store: Saved raw note: data/raw/698378c9000000000903a4fb.json
+2026-04-09 17:51:54,518 [INFO] __main__: [2/8] Crawling note: 有人能给我的Agent玩具项目加加星吗...
+2026-04-09 17:51:54,518 [INFO] crawler.note_crawler: Crawling note: https://www.xiaohongshu.com/explore/6978389e000000000d009197
+2026-04-09 17:51:57,704 [INFO] crawler.note_crawler: Extracted note '当前笔记暂时无法浏览...' (0 chars)
+2026-04-09 17:51:57,705 [DEBUG] storage.json_store: Saved raw note: data/raw/6978389e000000000d009197.json
+2026-04-09 17:51:57,705 [INFO] __main__: [3/8] Crawling note: 面试官最爱问的大模型 RAG 高频问题清单...
+2026-04-09 17:51:57,705 [INFO] crawler.note_crawler: Crawling note: https://www.xiaohongshu.com/explore/6995c799000000001a037929
+2026-04-09 17:52:00,521 [INFO] crawler.note_crawler: Extracted note '当前笔记暂时无法浏览...' (0 chars)
+2026-04-09 17:52:00,522 [DEBUG] storage.json_store: Saved raw note: data/raw/6995c799000000001a037929.json
+2026-04-09 17:52:00,522 [INFO] __main__: [4/8] Crawling note: RAG进阶：评估你的RAG生成能力...
+2026-04-09 17:52:00,522 [INFO] crawler.note_crawler: Crawling note: https://www.xiaohongshu.com/explore/69774b6c0000000022039e84
+2026-04-09 17:52:03,459 [INFO] crawler.note_crawler: Extracted note '当前笔记暂时无法浏览...' (0 chars)
+2026-04-09 17:52:03,459 [DEBUG] storage.json_store: Saved raw note: data/raw/69774b6c0000000022039e84.json
+2026-04-09 17:52:03,460 [INFO] __main__: [5/8] Crawling note: 大模型知识之思维链COT...
+2026-04-09 17:52:03,460 [INFO] crawler.note_crawler: Crawling note: https://www.xiaohongshu.com/explore/66862159000000001f004430
+2026-04-09 17:52:06,337 [INFO] crawler.note_crawler: Extracted note '当前笔记暂时无法浏览...' (0 chars)
+2026-04-09 17:52:06,337 [DEBUG] storage.json_store: Saved raw note: data/raw/66862159000000001f004430.json
+2026-04-09 17:52:06,337 [INFO] __main__: [6/8] Crawling note: 大模型算法一轮游-快手...
+2026-04-09 17:52:06,338 [INFO] crawler.note_crawler: Crawling note: https://www.xiaohongshu.com/explore/697a013d000000000a02d431
+2026-04-09 17:52:09,299 [INFO] crawler.note_crawler: Extracted note '当前笔记暂时无法浏览...' (0 chars)
+2026-04-09 17:52:09,299 [DEBUG] storage.json_store: Saved raw note: data/raw/697a013d000000000a02d431.json
+2026-04-09 17:52:09,299 [INFO] __main__: [7/8] Crawling note: 74个高质量的RAG架构相关资源...
+2026-04-09 17:52:09,299 [INFO] crawler.note_crawler: Crawling note: https://www.xiaohongshu.com/explore/69995ac6000000000d0082ca
+2026-04-09 17:52:12,387 [INFO] crawler.note_crawler: Extracted note '当前笔记暂时无法浏览...' (0 chars)
+2026-04-09 17:52:12,388 [DEBUG] storage.json_store: Saved raw note: data/raw/69995ac6000000000d0082ca.json
+2026-04-09 17:52:12,388 [INFO] __main__: [8/8] Crawling note: ACL-25：为什么CoT式Prompt设计会成功...
+2026-04-09 17:52:12,388 [INFO] crawler.note_crawler: Crawling note: https://www.xiaohongshu.com/explore/683fa579000000002202b558
+2026-04-09 17:52:15,601 [INFO] crawler.note_crawler: Extracted note '当前笔记暂时无法浏览...' (0 chars)
+2026-04-09 17:52:15,602 [DEBUG] storage.json_store: Saved raw note: data/raw/683fa579000000002202b558.json
+2026-04-09 17:52:15,602 [INFO] __main__: Crawling complete. 8 new notes saved, 0 skipped.
+2026-04-09 17:53:32,276 [INFO] __main__: Processing 8 raw notes...
+2026-04-09 17:53:32,276 [WARNING] __main__: Skipping note 66862159000000001f004430: no text content
+2026-04-09 17:53:32,276 [WARNING] __main__: Skipping note 683fa579000000002202b558: no text content
+2026-04-09 17:53:32,276 [WARNING] __main__: Skipping note 69774b6c0000000022039e84: no text content
+2026-04-09 17:53:32,276 [WARNING] __main__: Skipping note 6978389e000000000d009197: no text content
+2026-04-09 17:53:32,276 [WARNING] __main__: Skipping note 697a013d000000000a02d431: no text content
+2026-04-09 17:53:32,276 [WARNING] __main__: Skipping note 698378c9000000000903a4fb: no text content
+2026-04-09 17:53:32,276 [WARNING] __main__: Skipping note 6995c799000000001a037929: no text content
+2026-04-09 17:53:32,276 [WARNING] __main__: Skipping note 69995ac6000000000d0082ca: no text content
+2026-04-09 17:53:32,276 [INFO] __main__: Processing complete. Processed text saved to data/processed/
+2026-04-09 17:53:32,277 [INFO] __main__: Next step: the agent will read processed files and extract cards using LLM.
+2026-04-09 17:53:52,221 [INFO] __main__: Launching Streamlit UI...
+2026-04-09 17:58:12,490 [INFO] crawler.auth: Navigating to XHS explore page...
+2026-04-09 17:58:22,068 [INFO] crawler.auth: Not logged in. Reopening browser in visible mode for QR login...
+2026-04-09 17:58:34,281 [INFO] crawler.auth: Waiting for QR code login (timeout: 120s)...
+2026-04-09 17:58:34,400 [INFO] crawler.auth: Please scan the QR code with the Xiaohongshu app on your phone.
+2026-04-09 18:00:34,721 [WARNING] crawler.auth: Login timed out.

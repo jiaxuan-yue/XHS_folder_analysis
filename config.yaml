@@ -1,0 +1,17 @@
+crawler:
+  headless: true
+  scroll_times: 10
+  delay: 2
+
+auth:
+  profile_dir: ~/.xhs/browser_profile
+  login_timeout: 120
+
+storage:
+  type: json
+  cards_dir: data/cards
+  raw_dir: data/raw
+
+export:
+  anki: true
+  markdown: true
